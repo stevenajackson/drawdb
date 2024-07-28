@@ -10,6 +10,7 @@ import SettingsContextProvider from "./context/SettingsContext";
 import { useSettings } from "./hooks";
 import NotFound from "./pages/NotFound";
 
+
 export default function App() {
   return (
     <SettingsContextProvider>
